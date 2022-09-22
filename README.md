@@ -2,6 +2,23 @@
 Unusually Wild!
 
 # Table of Contents
+- [Information](#information)
+  - [Contact](#contact)
+  - [Social Media](#social-media)
+- [Design](#design)
+  - [Colors](#colors)
+  - [Fonts](#fonts)
+- [Global](#global)
+  - [Navigation](#navigation)
+  - [Footer](#footer)
+- [Pages](#pages)
+  - [Home](#home)
+    - [Hero](#hero)
+    - [Amenities](#amenities)
+    - [About](#about-section)
+    - [Explore Untamed Mountain](#explore-untamed-mountain)
+    - [FAQs](#faqs-section)
+    - [Contact](#contact-section)
 
 # Information
 Untamed acres is an RV Park and campground in Attalla, Alabama. 
@@ -9,12 +26,12 @@ They offer RV Sites and primitive camping.
 Their logo is Big Foot so try and keep the wild/wilderness as part of theme.
 Maybe different SVG of Big Foot, wolves, tents, rv and trees throughout the site.
 
-# Contact
+## Contact
 - [info@untamedacres.com](mailto:info@untamedacres.com)
 - [untamedacres.com](https://untamedacres.com/)
 - [(256) 500-6990](tel:2565006990)
 
-# Social Media
+## Social Media
 - Facebook (Not Created Yet)
 - Instagram (Not Created Yet)
 
@@ -87,7 +104,7 @@ List of things to do nearby will have descriptions and links to the places.
 - Winery
 - Kayaking
 
-### FAQS Section
+### FAQs Section
 Just some dummy info for now
 
 ### Contact Section
